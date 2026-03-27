@@ -68,7 +68,7 @@ st.markdown(
     .block-container {
     margin-left: auto;
     margin-right: auto;
-    padding-top: 30vh;
+    padding-top: 25vh;
     }
     
     .stButton button,
