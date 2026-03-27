@@ -59,7 +59,7 @@ st.markdown(
 
     .stButton button {
         margin-top: 1.5rem;
-        width: 250px;
+        width: 210px;
     }
     
     html, body, .stApp {
