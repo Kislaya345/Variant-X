@@ -1,0 +1,3 @@
+streamlit  # UI is made from this
+python-dotenv
+google-generativeai
