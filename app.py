@@ -66,11 +66,9 @@ st.markdown(
     }
 
     .block-container {
-    display: flex;
-    justify-content: center;
-    position: absolute;
-    top: 40%;
-    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30vh;
     }
     
     .stButton button,
