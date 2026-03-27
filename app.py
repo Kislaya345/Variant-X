@@ -65,11 +65,11 @@ st.markdown(
         height: 100%;
     }
 
-    
     .block-container {
     display: flex;
     justify-content: center;
-    align-items:center;
+    position: absolute;
+    top: 40%;
     height: 100%;
     }
     
