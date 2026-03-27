@@ -59,6 +59,7 @@ st.markdown(
 
     .stButton button {
         margin-top: 1.5rem;
+        width: 50px;
     }
     
     html, body, .stApp {
@@ -66,6 +67,7 @@ st.markdown(
     }
 
     .block-container {
+    max-width: 70vh;
     margin-left: auto;
     margin-right: auto;
     padding-top: 25vh;
