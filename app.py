@@ -20,7 +20,7 @@ st.set_page_config(page_title='Gemini Variant-X')
 
 st.markdown(
     """
-    
+ 
     <style>
     
     h2 {
