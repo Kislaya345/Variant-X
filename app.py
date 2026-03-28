@@ -95,5 +95,5 @@ submit = st.button("Generate the Output")
 
 if submit: 
     response = my_output(input)
-    st.subheader("The response is =")
+    st.subheader("-------------------------------")
     st.write(response)
